@@ -1,0 +1,51 @@
+1. กระบวนการวิเคราะห์ข้อมูลเบื้องต้น | Introduction to data analytics process
+
+https://lms.thaimooc.org/certificates/26a20f548ca847eaab5c4e0cc0947b9a
+
+-----
+
+2. Essential SQL for Everyone 
+
+https://school.borntodev.com/certificate/DPANEmhtHc7a
+
+-----
+
+3. Introduction to DataStudio 
+
+https://analytics.google.com/analytics/academy/certificate/Sahe4R0iRxGvuqyUWNAHqA
+
+-----
+
+4. การเตรียมข้อมูล | Data Preparation
+
+https://lms.thaimooc.org/certificates/d9d973736bac4c7d8fa121626c095d19
+
+-----
+
+5. FROM EXCEL TO EXCELLENT
+
+https://klix.kmitl.ac.th/certificate/75429/
+
+-----
+
+6. Fun With Data Science
+
+https://klix.kmitl.ac.th/certificate/76663/
+
+-----
+
+7. Basic Statistics for Data Analytics – Descriptive Statistics
+
+https://lms.thaimooc.org/certificates/c3e949c5a13840a6a6638fc0935cb1be
+
+-----
+
+8. การวิเคราะห์ข้อมูลเบื้องต้น ด้วย โปรแกรม MS Excel | Introduction to data analytics using MS Excel
+
+https://lms.thaimooc.org/certificates/f85eba363efa4bef9235d5622b0edbf9
+
+-----
+
+
+
+
